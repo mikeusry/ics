@@ -1,0 +1,8 @@
+filename = "IndependenceCleaningServices-2012-11-13T17-38-17"
+description = ""
+datestamp = "1352846299"
+generator = "Backup and Migrate (http://drupal.org/project/backup_migrate)"
+generatorversion = "7.x-2.x"
+sites[0][version] = "7.17"
+sites[0][name] = "Independence Cleaning Services"
+sites[0][url] = "http://default/"

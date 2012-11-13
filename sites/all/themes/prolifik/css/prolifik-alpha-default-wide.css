@@ -1,0 +1,8 @@
+/* @override 
+	http://www.cleaningserviceathensga.com/sites/all/themes/prolifik/css/prolifik-alpha-default-wide.css?mdfxxl */
+
+/* This file will hold styles that are loaded using the same media query as the wide grid. */
+
+#webform-component-tab {
+	background: url(../images/form-tab.png) no-repeat 97px;
+}

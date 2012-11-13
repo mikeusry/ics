@@ -1,0 +1,40 @@
+/* @override 
+	http://www.cleaningserviceathensga.com/sites/all/themes/prolifik/css/prolifik-alpha-default-normal.css?mdfxxl
+	http://www.cleaningserviceathensga.com/sites/all/themes/prolifik/css/prolifik-alpha-default-normal.css?mdg0ae
+	http://www.cleaningserviceathensga.com/sites/all/themes/omega/alpha/css/grid/alpha_default/normal/alpha-default-normal-24.css?mdg0ae */
+
+
+/* This file will hold styles that are loaded using the same media query as the normal grid. */
+
+#logo {max-width: 550px;}
+
+/* Search Form */
+#block-search-form {
+  position: absolute;
+  right: 0;
+  text-align: right;
+  top: 35px;
+  width: 300px;
+  z-index: 1;
+}
+
+#region-user-first {
+  width: 60%;
+  margin-left: 15%;
+}
+
+#region-user-second {
+	width: 50%;
+	position: absolute;
+	right: 0;
+	margin-top: 100px;
+	margin-right: 0;
+}
+
+#block-block-5 div.content p {
+	font-size: 2.35em;
+}
+
+#webform-component-tab {
+	background: url(../images/form-tab.png) no-repeat 58px;
+}
