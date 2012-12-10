@@ -1,7 +1,8 @@
 /* @override 
-	http://www.cleaningserviceathensga.com/sites/all/themes/prolifik/css/prolifik-base.css?mdfxxl
-	http://www.cleaningserviceathensga.com/sites/all/themes/prolifik/css/prolifik-base.css?mdg0ae
-	http://www.cleaningserviceathensga.com/sites/all/themes/prolifik/css/prolifik-base.css?mdg42q */
+	http://cleaningserviceathensga.com/sites/all/themes/prolifik/css/prolifik-base.css?mdy6g2
+	http://cleaningserviceathensga.com/sites/all/themes/prolifik/css/prolifik-base.css?mdy7bx
+	http://cleaningserviceathensga.com/sites/all/themes/prolifik/css/prolifik-base.css?mdy7sm */
+
 
 /* This file will hold the main styles for your website. */
 body {
@@ -23,23 +24,13 @@ div.social {
 
 #block-block-4 div.content span.phone {
 	font-size: 30px;
-	margin-right: 20px;
+	margin-right: 10px;
 	position: relative;
-	bottom: 7px;
+	bottom: 8px;
 	z-index: 999;
 }
 
 #block-block-4 {
-	background-color: #b8b9bd;
-	-moz-box-shadow: 0 0 11px #43433e;
-	-webkit-box-shadow: 0 0 11px #43433e;
-	box-shadow: 0 0 11px #43433e;
-	-webkit-border-bottom-right-radius: 15px;
-	-webkit-border-bottom-left-radius: 15px;
-	-moz-border-radius-bottomright: 15px;
-	-moz-border-radius-bottomleft: 15px;
-	border-bottom-right-radius: 15px;
-	border-bottom-left-radius: 15px;
 	text-align: center;
 }
 
@@ -300,8 +291,23 @@ list-style-image: url(../images/bullet.png) ;
 /* @end */
 
 #block-views-services-block .views-field-title {
-	font-weight: bold;
 	text-align: center;
+	background-color: #9a3a92;
+	margin-top: 5px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	border-radius: 7px;
+}
+#block-views-services-block .views-field-title a {
+	color: white;
+}
+
+#block-views-services-block {
+	margin-bottom: 30px;
+}
+
+#block-system-main .view-testimonials.view-id-testimonials div.views-row {border-bottom: 1px solid #9a3a92;
+	margin-top: 10px;
 }
 
 #block-views-services-block div.block-title h2.block-title div.text {

@@ -1,29 +1,19 @@
 /* @override 
-	http://www.cleaningserviceathensga.com/sites/all/themes/prolifik/css/prolifik-branding.css?mcve73
-	http://www.cleaningserviceathensga.com/sites/all/themes/prolifik/css/prolifik-branding.css?md0zza
-	http://www.cleaningserviceathensga.com/sites/all/themes/prolifik/css/prolifik-branding.css?md8ni0
-*/
+	http://cleaningserviceathensga.com/sites/all/themes/omega/omega/css/omega-branding.css?mdy6g2
+	http://cleaningserviceathensga.com/sites/all/themes/prolifik/css/prolifik-branding.css?mdy6g2 */
+
 
 /* Branding */
-#zone-branding-wrapper {
 
-	}
-#zone-branding {
-  position: relative;
-}
 #region-branding {
   margin: 0;
   padding: 0;
   width: 100%;
-  position: relative;
 }
 #region-branding .region-inner {
-  padding: 100px 20px 10px;
   background-color: #c1c2c4;
 }
 
-.logo-img {text-align: center;
-}
 
 #logo {width: 100%;}
 
@@ -34,7 +24,6 @@
 }
 #block-search-form form {
   min-height: 0;
-  position: relative;
 }
 #block-search-form .form-submit {
   background: url(../images/search.png) 0 0 no-repeat transparent;

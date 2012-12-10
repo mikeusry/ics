@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>http://www.cleaningserviceathensga.com/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
-<url><loc>http://www.cleaningserviceathensga.com/front-page-long-scroll</loc><lastmod>2012-07-26T17:50Z</lastmod><changefreq>yearly</changefreq></url>
-<url><loc>http://www.cleaningserviceathensga.com/commercial-cleaning-service</loc><lastmod>2012-11-13T21:15Z</lastmod><changefreq>hourly</changefreq></url>
-<url><loc>http://www.cleaningserviceathensga.com/window-cleaning-service</loc><lastmod>2012-11-13T21:14Z</lastmod><changefreq>hourly</changefreq></url>
-<url><loc>http://www.cleaningserviceathensga.com/office-cleaning-service</loc><lastmod>2012-11-13T21:11Z</lastmod><changefreq>hourly</changefreq></url>
-<url><loc>http://www.cleaningserviceathensga.com/residential-cleaning-service</loc><lastmod>2012-11-13T21:09Z</lastmod><changefreq>hourly</changefreq></url>
-<url><loc>http://www.cleaningserviceathensga.com/apartment-cleaning-service</loc><lastmod>2012-11-13T21:02Z</lastmod><changefreq>hourly</changefreq></url>
-<url><loc>http://www.cleaningserviceathensga.com/deep-cleanings</loc><lastmod>2012-11-13T20:56Z</lastmod><changefreq>hourly</changefreq></url>
-<url><loc>http://www.cleaningserviceathensga.com/project-cleaning-services</loc><lastmod>2012-11-13T21:08Z</lastmod><changefreq>hourly</changefreq></url>
-<url><loc>http://www.cleaningserviceathensga.com/post-construction-cleaning-services</loc><lastmod>2012-11-13T21:06Z</lastmod><changefreq>hourly</changefreq></url>
-<url><loc>http://www.cleaningserviceathensga.com/post-party-cleaning-service</loc><lastmod>2012-11-13T21:00Z</lastmod><changefreq>hourly</changefreq></url>
-<url><loc>http://www.cleaningserviceathensga.com/move-move-out-cleaning-service</loc><lastmod>2012-11-13T20:58Z</lastmod><changefreq>hourly</changefreq></url>
-<url><loc>http://www.cleaningserviceathensga.com/contact-us</loc><lastmod>2012-09-24T17:57Z</lastmod><changefreq>monthly</changefreq></url>
-<url><loc>http://www.cleaningserviceathensga.com/residential-maid-service</loc><lastmod>2012-11-13T20:53Z</lastmod><changefreq>hourly</changefreq></url>
-<url><loc>http://www.cleaningserviceathensga.com/thank-you</loc><lastmod>2012-07-26T16:54Z</lastmod><changefreq>yearly</changefreq></url>
-<url><loc>http://www.cleaningserviceathensga.com/services</loc><lastmod>2012-11-09T19:39Z</lastmod><changefreq>weekly</changefreq></url>
-<url><loc>http://www.cleaningserviceathensga.com/quality-control</loc><lastmod>2012-09-24T18:07Z</lastmod><changefreq>monthly</changefreq></url>
-<url><loc>http://www.cleaningserviceathensga.com/employment</loc><lastmod>2012-11-05T16:45Z</lastmod><changefreq>weekly</changefreq></url>
-<url><loc>http://www.cleaningserviceathensga.com/cleaning-service-athens-ga</loc><lastmod>2012-11-06T18:28Z</lastmod><changefreq>weekly</changefreq></url>
-<url><loc>http://www.cleaningserviceathensga.com/home-cleaning-service</loc><lastmod>2012-11-13T21:17Z</lastmod><changefreq>hourly</changefreq></url>
+<url><loc>http://cleaningserviceathensga.com/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://cleaningserviceathensga.com/front-page-long-scroll</loc><lastmod>2012-07-26T17:50Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>http://cleaningserviceathensga.com/commercial-cleaning-service</loc><lastmod>2012-11-23T16:35Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://cleaningserviceathensga.com/window-cleaning-service</loc><lastmod>2012-11-14T17:21Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://cleaningserviceathensga.com/office-cleaning-service</loc><lastmod>2012-11-23T16:35Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://cleaningserviceathensga.com/residential-cleaning-service</loc><lastmod>2012-11-23T16:35Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://cleaningserviceathensga.com/apartment-cleaning-service</loc><lastmod>2012-11-14T17:27Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://cleaningserviceathensga.com/deep-cleanings</loc><lastmod>2012-11-14T17:25Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://cleaningserviceathensga.com/project-cleaning-services</loc><lastmod>2012-11-14T17:23Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://cleaningserviceathensga.com/post-construction-cleaning-services</loc><lastmod>2012-11-14T16:30Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://cleaningserviceathensga.com/pre-and-post-party-cleaning-service</loc><lastmod>2012-11-23T16:34Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://cleaningserviceathensga.com/move-move-out-cleaning-service</loc><lastmod>2012-11-23T16:33Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://cleaningserviceathensga.com/contact-us</loc><lastmod>2012-11-23T16:15Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://cleaningserviceathensga.com/employment-application</loc><lastmod>2012-11-23T16:37Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://cleaningserviceathensga.com/thank-you</loc><lastmod>2012-11-14T15:54Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://cleaningserviceathensga.com/contact-independence-cleaners</loc><lastmod>2012-11-23T16:18Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://cleaningserviceathensga.com/no-obligation-quote</loc><lastmod>2012-12-07T15:05Z</lastmod><changefreq>daily</changefreq></url>
+<url><loc>http://cleaningserviceathensga.com/services</loc><lastmod>2012-11-23T16:28Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://cleaningserviceathensga.com/quality-control</loc><lastmod>2012-11-23T16:36Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://cleaningserviceathensga.com/employment</loc><lastmod>2012-11-14T11:32Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://cleaningserviceathensga.com/cleaning-service-athens-ga</loc><lastmod>2012-11-23T16:21Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://cleaningserviceathensga.com/home-cleaning-service</loc><lastmod>2012-11-14T17:28Z</lastmod><changefreq>monthly</changefreq></url>
 </urlset>

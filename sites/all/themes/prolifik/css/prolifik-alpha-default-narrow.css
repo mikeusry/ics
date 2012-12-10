@@ -1,14 +1,10 @@
 /* @override 
-	http://www.cleaningserviceathensga.com/sites/all/themes/prolifik/css/prolifik-alpha-default-narrow.css?md0zza
-	http://www.cleaningserviceathensga.com/sites/all/themes/prolifik/css/prolifik-alpha-default-narrow.css?md12tm
-	http://www.cleaningserviceathensga.com/sites/all/themes/prolifik/css/prolifik-alpha-default-narrow.css?md8ni0
-	http://www.cleaningserviceathensga.com/sites/all/themes/prolifik/css/prolifik-alpha-default-narrow.css?mdfxxl
-	http://www.cleaningserviceathensga.com/sites/all/themes/prolifik/css/prolifik-alpha-default-narrow.css?mdg0ae */
+	http://cleaningserviceathensga.com/sites/all/themes/prolifik/css/prolifik-alpha-default-narrow.css?mdy4n5
+	http://cleaningserviceathensga.com/sites/all/themes/prolifik/css/prolifik-alpha-default-narrow.css?mdy57d
+	http://cleaningserviceathensga.com/sites/all/themes/prolifik/css/prolifik-alpha-default-narrow.css?mdy5o5 */
+
 
 /* This file will hold styles that are loaded using the same media query as the narrow grid. */
-
-.logo-img {
-}
 
 #region-menu nav.navigation ul.menu li.leaf {
 	display: inline;
@@ -40,7 +36,8 @@ div.social {
 	display: inline;
 }
 #region-branding .region-inner {
-  padding: 20px 20px 0;}
+	padding: 0;
+}
   
 #block-block-5 p {
 font-size: 2 em;
